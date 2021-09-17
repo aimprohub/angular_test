@@ -7,8 +7,9 @@ import { Component, OnInit } from '@angular/core';
 })
 export class HelloWorldComponent implements OnInit {
 
+  //name:string;
   constructor() { }
-
+  name ="AngularJs is the way to proceed !"
   ngOnInit(): void {
   }
 
